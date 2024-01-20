@@ -1,0 +1,164 @@
+@using Admin_Models;
+@model Admin
+
+
+@{ ViewData["Title"]="Login";}
+
+
+<style>  
+body{  
+  font-family: Calibri, Helvetica, sans-serif;  
+  background-color: rgb(109, 207, 236);  
+}  
+.container {  
+    padding: 50px;  
+  background-color: lightblue;  
+}  
+  
+input[type=text], input[type=password], textarea {  
+  width: 100%;  
+  padding: 15px;  
+  margin: 4px 0 22px 0;  
+  display: inline-block;  
+  border: none;  
+  background: #f1f1f1;  
+}  
+input[type=text]:focus, input[type=password]:focus {  
+  background-color: rgb(240, 246, 247);  
+  outline: none;  
+}  
+ div {  
+            padding: 8px 0;  
+         }  
+hr {  
+  border: 1px solid #f1f1f1;  
+  margin-bottom: 25px;  
+}  
+.registerbtn {  
+  background-color: #4CAF50;  
+  color: white;  
+  padding: 16px 20px;  
+  margin: 8px 0;  
+  border: none;  
+  cursor: pointer;  
+  width: 50%;  
+  opacity: 0.9;  
+}  
+.registerbtn:hover {  
+  opacity: 1;  
+}  
+</style>  
+
+<main style="padding-left: 400px; margin-top: 10%;">
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>EmployeeData</title>
+    <link rel="stylesheet" asp-href-include="lib/bootstrap/css/bootstrap.min.css" />
+</head>
+<body>
+
+ <div   class="container-fluid" style="margin-left: -15%;">
+        <h1>Update Employee          
+             <a asp-action="EmployeeList" asp-controller="Admin" class="btn btn-sm btn-secondary" >Back</a></h1>
+        <h2 class="alert-danger">@ViewBag.Result</h2>
+        <form enctype="multipart/form-data" method="post">
+            
+
+         <div class="row" >
+              <div class="form-group col-md-5">
+                @* @if (Model.Employeeid!=null && Model.Employeeid is int)
+                { *@
+                <label asp-for="Employeeid"></label>
+                <input type="text" asp-for="Employeeid" class="form-control" placeholder="EmployeeID"/>
+                <span asp-validation-for="Employeeid" class="text-danger"></span>
+                @* }
+                else
+                {
+                  <p>Invalid data.</p>
+                } *@
+            </div>
+            <div class="form-group col-md-5">
+                <label asp-for="EmployeeName"></label>
+                <input asp-for="EmployeeName" class="form-control" placeholder="Employee Name" />
+                <span asp-validation-for="EmployeeName" class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-5">
+                <label asp-for="Age"></label>
+                <input type="text" asp-for="Age" class="form-control" placeholder="Age"/>
+                <span asp-validation-for="Age" class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-5">
+                <label asp-for="JoiningDate"></label>
+                <input asp-for="JoiningDate" type="date" z class="form-control my-2"/>
+                <span asp-validation-for="JoiningDate" class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-5">
+                    <label  asp-for="Gender"><h2>Choose Gender</h2></label><br>
+                    <input asp-for="Gender" type="radio" name="gender" value="Male"> Male
+                    <input asp-for="Gender" type="radio" name="gender" value="Female"> Female
+                    <span asp-validation-for="Gender" class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-5">
+                <label asp-for="Address"></label>
+                <input asp-for="Address" class="form-control" placeholder="Address"/>
+                <span asp-validation-for="Address" class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-5">
+                <label asp-for="PhoneNumber"></label>
+                <input asp-for="PhoneNumber" class="form-control" placeholder="PhoneNumber"/>
+                <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-5">
+                    <label  asp-for="Department"></label>
+                    <select type="text" asp-for="Department" class="form-select form-control-md">
+                      <option asp-value="IT">IT </option>
+                      <option asp-value="Human Resource">Human Resource</option>
+                      <option asp-value="Finance">Finance</option>
+                      
+                      <option asp-value="Sales">Sales</option>
+                    </select>
+                    <span asp-validation-for="Department" class="text-danger"></span>
+                  </div>
+            <div class="form-group col-md-5">
+                <label asp-for="AccountNumber"></label>
+                <input type ="text" asp-for="AccountNumber" class="form-control" placeholder="AccountNumber"/>
+                <span asp-validation-for="AccountNumber" class="text-danger"></span>
+            </div>
+            
+             <div class="form-group col-md-5">
+                <label asp-for="Email"></label>
+                <input asp-for="Email" class="form-control" placeholder="Email"/>
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-5">
+                 <label asp-for="image">Upload Image:</label></br>
+                <input type="file" asp-for="image" class="form-control-file" accept="image*/" />
+                <span asp-validation-for="image" class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-5">
+                <label asp-for="Username"></label>
+                <input asp-for="Username" class="form-control" placeholder="Username"/>
+                <span asp-validation-for="Username" class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-5">
+                <label asp-for="Password"></label>
+                <input asp-for="Password" class="form-control" placeholder="Password"/>
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div></br>
+            <div class=" panel-body col-md-5">
+                <button type="submit" class="btn btn-sm btn-primary">Update</button>
+            </div>
+            
+        </form>
+    </div>
+</body>
+    </main>
+
+</html>
+
+    @section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

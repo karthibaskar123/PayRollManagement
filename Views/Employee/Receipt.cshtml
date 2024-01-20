@@ -1,0 +1,149 @@
+
+@using Admin_Models
+@model IEnumerable<Admin>
+@{ ViewData["Title"]="Login";}
+
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!DOCTYPE html>
+<html>
+<style>
+    table, th, td {
+        border: 1px solid black;
+    }
+</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<body>
+    <div class="htmlstuff" input align="middle">
+       
+        @foreach(var i in Model){ 
+    <div ><h1>Salary Slip</h1>
+    <h3>Salary Details of : @i.EmployeeName</h3>
+    <table class="table table-bordered table-condensed table-striped">
+         <tr>
+            <td>Deparment Name :</td>
+            <td>@i.Department</td>
+        </tr>
+        @foreach (var j in i.roles)
+        {
+            <tr>
+                    <td>Role Name :</td>
+                   <td>@j.Rolename</td>
+                    </tr>
+
+        }   
+         
+        <tr>
+            <td>PhoneNumber :</td>
+            <td>@i.PhoneNumber</td>
+        </tr>
+        <tr>
+           <td>Address :</td>
+            <td>@i.Address</td>
+        </tr>
+        <tr>
+            <td>Email :</td>
+            <td>@i.Email</td>
+        </tr>
+        <tr>
+            <td>Gender :</td>
+            <td>@i.Gender</td>
+        </tr>
+        <tr>
+            <td>Age :</td>
+            <td>@i.Age</td>
+        </tr>
+         <tr>
+            <td>Account number    :</td>
+            <td>@i.AccountNumber</td>
+        </tr>
+        <tr>@foreach (var j in i.roles)
+        {
+            <td>Month    :</td><td>@j.Month</td>
+        }</tr></table></div>
+        
+
+        <h1></h1>
+        <h1></h1>
+        <h1></h1>
+
+
+
+         @foreach (var j in i.roles)
+        {
+            <div>
+        
+                  <table class="table table-bordered table-condensed table-striped">
+            
+        
+                    <tr> 
+                        <td colspan="2">Income Details</td>
+                    </tr>
+                    
+                    <tr>
+                        <td>GrossSalary :</td>
+                        <td>@j.GrossSalary</td>
+                    </tr>
+                    @* <tr>
+                        <td>Bonus :</td>
+                        <td>@ViewBag.Bonus</td>
+                    </tr> *@
+                    <tr>
+                        <td>TravelAllowance :</td>
+                        <td>@j.TravellAllowance</td>
+                    </tr>
+                    <tr>
+                        <td>MedicalAllowance :</td>
+                        <td>@j.MedicalAllowance</td>
+                    </tr></table>
+                    
+        <h1></h1>
+        <h1></h1>
+        <h1></h1><table class="table table-bordered table-condensed table-striped">
+                    <tr>
+                        <td colspan="2">Deductions</td>
+                    </tr>
+                    <tr>
+                        <td>PF :</td>
+                        <td>@j.PF</td>
+                    </tr>
+                    <tr>
+                        <td>ESI :</td>
+                        <td>@j.ESI</td>
+                    </tr>
+                    <tr>
+                        <td>Tax :</td>
+                        <td>@j.Tax</td>
+                    </tr>
+ 
+                    <tr>
+                        <td>NetPay :</td>
+                        <td>@j.NetPay</td>
+                    </tr>
+                    </table></div>
+                    
+                            } }
+
+
+
+
+
+
+    </div>
+    <div class="mt-5">
+        <button class="btn btn-primary" id="btngenerate">Generate Pdf</button>
+    </div>
+</body>
+<script type="text/javascript">
+    $("#btngenerate").click(function () {
+
+        var htmldata = $(".htmlstuff").html();
+        htmldata = htmldata.replace(/</g, "strtTag").replace(/>/g, "EndTag");
+        window.location = window.location.origin + '/Role/GeneratePdf?html=' + htmldata;
+    });
+
+</script>
+</html>

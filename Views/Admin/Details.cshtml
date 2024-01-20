@@ -1,0 +1,51 @@
+@using Admin_Models
+@model IEnumerable<Admin>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model=>model.Employeeid)</th>
+            <th>@Html.DisplayNameFor(model=>model.EmployeeName)</th>
+            <th>@Html.DisplayNameFor(model=>model.Age)</th>
+            <th>@Html.DisplayNameFor(model=>model.Gender)</th>
+            <th>@Html.DisplayNameFor(model=>model.PhoneNumber)</th>
+            <th>@Html.DisplayNameFor(model=>model.Department)</th>
+            <th>@Html.DisplayNameFor(model=>model.AccountNumber)</th>
+            <th>@Html.DisplayNameFor(model=>model.Email)</th>
+            <th>@Html.DisplayNameFor(model=>model.ProfilePicture)</th>
+            <th>@Html.DisplayNameFor(model=>model.Username)</th>
+            <th>@Html.DisplayNameFor(model=>model.Password)</th>
+    
+         </tr>
+    </thead>
+    <tbody>
+          @if (Model == null)
+                {
+                    <tr>
+                        <td colspan="7" class="text-center">No Model Data</td>
+                    </tr>
+                }
+                else
+                {
+        @foreach (var emp in Model)
+        {
+            <tr>
+            <th>@Html.DisplayFor(model=>emp.Employeeid)</th>
+            <th>@Html.DisplayFor(model=>emp.EmployeeName)</th>
+            <th>@Html.DisplayFor(model=>emp.Age)</th>
+            <th>@Html.DisplayFor(model=>emp.Gender)</th>
+            <th>@Html.DisplayFor(model=>emp.PhoneNumber)</th>
+            <th>@Html.DisplayFor(model=>emp.Department)</th>
+            <th>@Html.DisplayFor(model=>emp.AccountNumber)</th>
+            <th>@Html.DisplayFor(model=>emp.Email)</th>
+            <th>@Html.DisplayFor(model=>emp.ProfilePicture)</th>
+            <th>@Html.DisplayFor(model=>emp.Username)</th>
+            <th>@Html.DisplayFor(model=>emp.Password)</th>
+             @* <td><a asp-action="Details" asp-controller="Employee" asp-route-id="@emp.referenceid"><button>Details</button></a></td>
+           <td><a asp-action="updateemploye" asp-controller="Employee" asp-route-id="@emp.EmployeeId"><button>Edit</button></a></td>*@
+            </tr> 
+        }
+        }
+
+    </tbody>
+</table>

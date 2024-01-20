@@ -1,0 +1,515 @@
+<style>
+  @*command style*@
+    * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #e1e7ed;
+    text-align: center;
+}
+
+h3 {
+    font-size: 18px;
+    font-weight: 500;
+    color: #33363b;
+}
+
+p{
+    font-size: 14px;
+    color: #868d9b;
+}
+
+.card {
+    width: 360px;
+    height: auto;
+    background-color: #ffffff;
+    margin: 0 auto;
+    margin-top: 80px;
+    box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.15);
+}
+
+.card_profile_img {
+    width: 120px;
+    height: 120px;
+    background-color: #868d9b;
+    background: url("https://source.unsplash.com/7Sz71zuuW4k");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border: 2px solid #ffffff;
+    border-radius: 120px;
+    margin: 0 auto;
+    margin-top: -60px;
+
+}
+
+.card_background_img {
+    width: 100%;
+    height: 180px;
+    background-color: #e1e7ed;
+    background: url("https://source.unsplash.com/9wg5jCEPBsw");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.user_details p {
+    margin-bottom: 20px;
+    margin-top: -5px;
+}
+
+.user_details h3 {
+    margin-top: 10px;
+}
+
+.card_count {
+    padding: 30px;
+    border-top: 1px solid #dde1e7;
+}
+
+.count {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 28px;
+}
+
+.count p {
+    margin-top: -10px;
+}
+
+.btn {
+    padding: 5px;
+    width: 19%;
+    border: none;
+    outline: none;
+    border-radius: 100px;
+    background-color: #24c5a1;
+    color: #ffffff;
+    cursor: pointer;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+  body {
+  background-color: #fbfbfb;
+}
+.media (min-width: 991.98px) {
+  main {
+    padding-left: 240px;
+  }
+}
+
+/* Sidebar style */
+.sidebar {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  padding: 58px 0 0; /* Height of navbar */
+  box-shadow: 0 2px 5px 0 rgb(0 0 0 / 5%), 0 2px 10px 0 rgb(0 0 0 / 5%);
+  width: 240px;
+  z-index: 600;
+}
+
+.media (max-width: 991.98px) {
+  .sidebar {
+    width: 100%;
+  } 
+}
+.sidebar .active {
+  border-radius: 5px;
+  box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+}
+
+.sidebar-sticky {
+  position: relative;
+  top: 0;
+  height: calc(100vh - 48px);
+  padding-top: 0.5rem;
+  overflow-x: hidden;
+  overflow-y: auto; /* Scrollable contents if viewport is shorter than content. */
+}
+/* Sidebar style */
+@*main style*@
+
+body{  
+  font-family: Calibri, Helvetica, sans-serif;  
+  background-color: rgb(109, 207, 236);  
+}  
+@* .container {  
+    padding: 50px;  
+  background-color: lightblue;  
+}  
+   *@
+input[type=text], input[type=password], textarea {  
+  width: 100%;  
+  padding: 15px;  
+  margin: 4px 0 22px 0;  
+  display: inline-block;  
+  border: none;  
+  background: #f1f1f1;  
+}  
+input[type=text]:focus, input[type=password]:focus {  
+  background-color: rgb(240, 246, 247);  
+  outline: none;  
+}  
+ div {  
+            padding: 8px 0;  
+         }  
+hr {  
+  border: 1px solid #f1f1f1;  
+  margin-bottom: 25px;  
+}  
+.registerbtn {  
+  background-color: #4CAF50;  
+  color: white;  
+  padding: 16px 20px;  
+  margin: 8px 0;  
+  border: none;  
+  cursor: pointer;  
+  width: 50%;  
+  @* opacity: 0.9;   *@
+}  
+.registerbtn:hover {  
+  opacity: 1;  
+} 
+
+
+@*box style*@
+
+ 
+body{  
+  font-family: Calibri, Helvetica, sans-serif;  
+  background-color: rgb(109, 207, 236);  
+}  
+@* .container {  
+    padding: 30px;  
+  background-color: lightblue;  
+}  
+   *@
+input[type=text], input[type=password], textarea {  
+  width: 100%;  
+  padding: 15px;  
+  margin: 4px 0 22px 0;  
+  display: inline-block;  
+  border: none;  
+  background: #f1f1f1;  
+}  
+input[type=text]:focus, input[type=password]:focus {  
+  background-color: rgb(240, 246, 247);  
+  outline: none;  
+}  
+ div {  
+            padding: 8px 0;  
+         }  
+hr {  
+  border: 1px solid #f1f1f1;  
+  margin-bottom: 25px;  
+}  
+.registerbtn {  
+  background-color: #4CAF50;  
+  color: white;  
+  padding: 16px 20px;  
+  margin: 8px 0;  
+  border: none;  
+  cursor: pointer;  
+  width: 50%;  
+  opacity: 0.9;  
+}  
+.registerbtn:hover {  
+  opacity: 1;  
+}  
+
+    table, td, th {
+  border: 1px solid rgb(1, 2, 7);
+  width: 120%
+  margin: 5rem;
+}
+
+		@* table {
+			border-collapse: collapse;
+			width: 100%;
+			margin-top: 20px;
+			margin-bottom: 20px;
+		} *@
+		th, td {
+			padding: 8px;
+			text-align: left;
+			border-bottom: 1px solid #ddd;
+		}
+		th {
+			background-color: #f01414;
+			color: white;
+		}
+		tr:hover {
+			background-color: #f5f5f5;
+		}
+        label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+    margin: 0.4rem 0;
+}
+
+</style>  
+
+
+
+<!--Dashboard Navigation-->
+<!--Main Navigation-->
+<header>
+  <!-- Sidebar -->
+  <nav
+    body {
+  style=background-color:#c22020;
+}
+       id="sidebarMenu"
+       class="collapse d-lg-block sidebar collapse bg-white"
+       >
+    <div class="position-sticky">
+      <div class="list-group list-group-flush mx-3 mt-4">
+         <a
+           class="list-group-item list-group-item-action py-2 ripple"
+           aria-current="true"
+           >
+        </a>
+        <a asp-action="AdminDashboard" asp-controller="Login"
+           class="list-group-item list-group-item-action py-2 ripple">
+           <i class="fas fa-lock fa-fw me-3">
+           </i><span>User Profile </span>
+           </a>
+        <a asp-action="AddEmployee" asp-controller="Admin"
+           class="list-group-item list-group-item-action py-2 ripple">
+           <i class="fas fa-lock fa-fw me-3">
+           </i><span>Add Employee </span>
+           </a>
+        <a
+           asp-action="EmployeeList" asp-controller="Admin"
+           class="list-group-item list-group-item-action py-2 ripple"
+           ><i class="fas fa-chart-line fa-fw me-3"></i
+          ><span>Employee list</span>
+          </a>
+          <a
+           asp-action="CreateRoleSalary" asp-controller="Role"
+           class="list-group-item list-group-item-action py-2 ripple"
+           >
+          <i class="fas fa-chart-pie fa-fw me-3"></i><span>Create RoleSalary</span>
+        </a>
+         <a
+           asp-action="RoleSalaryList" asp-controller="Role"
+           class="list-group-item list-group-item-action py-2 ripple"
+           >
+          <i class="fas fa-chart-pie fa-fw me-3"></i><span>RoleSalaryList</span>
+        </a>
+          <a
+           asp-action="RoleBaseSalary" asp-controller="Salary"
+           class="list-group-item list-group-item-action py-2 ripple"
+           >
+          <i class="fas fa-chart-pie fa-fw me-3"></i><span>Salary Generate</span>
+        </a>
+        <a
+           asp-action="RoleBaseSalaryList" asp-controller="Salary"
+           class="list-group-item list-group-item-action py-2 ripple"
+           >
+          <i class="fas fa-chart-pie fa-fw me-3"></i><span>Salary List</span>
+        </a>
+         
+         <a
+           asp-action="BonusList" asp-controller="Salary"
+           class="list-group-item list-group-item-action py-2 ripple"
+           >
+          <i class="fas fa-chart-pie fa-fw me-3"></i><span>Bonus List</span>
+        </a>
+        <a
+           asp-action="LeaveRequest" asp-controller="Admin"
+           class="list-group-item list-group-item-action py-2 ripple"
+           >
+          <i class="fas fa-chart-pie fa-fw me-3"></i><span>LeaveRequests</span>
+        </a>
+         <a
+           asp-action="SalaryReport" asp-controller="Salary"
+           class="list-group-item-active list-group-item-action py-2 ripple"
+           >
+          <i class="fas fa-chart-pie fa-fw me-3"></i><span>Report</span>
+        </a>
+        <a
+           asp-action="Create" asp-controller="Roles"
+           class="list-group-item list-group-item-action py-2 ripple"
+           >
+          <i class="fas fa-chart-pie fa-fw me-3"></i><span>Roles </span>
+        </a>
+      </div>
+    </div>
+  </nav>
+  <!-- Sidebar -->
+
+  <!-- Navbar -->
+  <nav
+       id="main-navbar"
+       class="navbar navbar-expand-lg navbar-light bg-white fixed-top"
+       >
+    <!-- Container wrapper -->
+    <div class="container-fluid">
+      <!-- Toggle button -->
+      <button
+              class="navbar-toggler"
+              type="button"
+              data-mdb-toggle="collapse"
+              data-mdb-target="#sidebarMenu"
+              aria-controls="sidebarMenu"
+              aria-expanded="false"
+              aria-label="Toggle navigation"
+              >
+        <i class="fas fa-bars"></i>
+      </button>
+
+      <!-- Brand -->
+      <a class="navbar-brand" style="margin-left: 5%;">
+        <img
+             src="https://www.kindpng.com/picc/m/254-2544615_pms-logo-png-transparent-png.png"
+             height="50"
+             alt=""
+             loading="lazy"
+             />
+      </a>
+     <!-- Right links -->
+      <ul class="navbar-nav ms-auto d-flex flex-row">
+        <!-- Notification dropdown -->
+        <li class="nav-item dropdown">
+          
+          <ul
+              class="dropdown-menu dropdown-menu-end"
+              aria-labelledby="navbarDropdownMenuLink"
+              >
+            <li><a class="dropdown-item" href="#">Some news</a></li>
+            <li><a class="dropdown-item" href="#">Another news</a></li>
+            <li>
+              <a class="dropdown-item" href="#">Something else here</a>
+            </li>
+          </ul>
+        </li>
+
+        <!-- Icon -->
+        <li class="nav-item">
+          <a class="nav-link me-3 me-lg-0" href="#">
+            <i class="fas fa-fill-drip"></i>
+          </a>
+        </li>
+        <!-- Icon -->
+        <li class="nav-item me-3 me-lg-0">
+          <a class="nav-link" href="#">
+            <i class="fab fa-github"></i>
+          </a>
+        </li>
+
+        <!-- Icon dropdown -->
+      <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+          <li class="nav-item">
+            @* <a class="nav-link" href="#" asp-action="AdminDashBoard" asp-controller="Login">Contact Us</a> *@
+            <a class="nav-link" asp-action="ComplaintList" asp-controller="Admin">Complaints</a>
+          </li>
+         <li class="nav-item">
+            @* <a class="nav-link" href="#" asp-action="AdminDashBoard" asp-controller="Login">Contact Us</a> *@
+            <a class="nav-link" asp-action="TraceList" asp-controller="Admin">Trace</a>
+          </li>
+          <li class="nav-item">
+        <form id="logoutForm" class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+            <button id="logout" type="submit" class="nav-link btn-link border-0">Logout</button>
+        </form>
+        </li>
+          <li>
+            <Partial name="_LoginPartial"/>
+          </li>
+      </ul>
+    </div>
+    <!-- Container wrapper -->
+  </nav>
+  <!-- Navbar -->
+</header>
+
+
+<main style="padding-left: 310px; margin-top: 10%;">
+
+@using Admin_Models
+@model IEnumerable<Admin>
+@{ ViewData["Title"]="Login";}
+
+<!DOCTYPE html>
+<html>
+  <head>
+
+  </head>
+<body>
+   <div class="container-fluid" style="margin-left: -10%;">
+        <h1>Employee Salary Generate <a asp-action="AdminDashBoard" asp-controller="Login" class="btn btn-sm btn-secondary">Back</a></h1>
+        </br>
+
+
+
+  </br>
+
+        <table id="mytable" style="margin-left: %; class="table table-bordered table hover table-sm">
+        @* <table id="reporttable" class="text-align: Left"" class="table table-bordered table-sm table-striped"> *@
+            <thead>
+                <tr >
+                    <th>Employeeid</th>
+                    <th>EmployeeName</th>
+                    <th>AccountNumber</th>
+                    <th>Department</th>
+                    <th>Role</th>
+                    <th>Month</th>
+                    <th>GrossSalary</th>
+                    <th>Netpay</th>
+                    <th>PrintBox</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model == null)
+                {
+                    <tr>
+                        <td colspan="12" class="text-center">No Model Data</td>
+                    </tr>
+                }
+                else
+                {
+                    @foreach (var p in Model)
+                    {
+                        <tr>
+                            <td>@p.Employeeid</td>
+                            <td>@p.EmployeeName</td>
+                            <td>@p.AccountNumber</td>
+                            <td>@p.Department</td>
+                            @foreach (var r in p.roles)
+                            {
+                              
+                              <td>@r.Rolename</td>
+                              <td>@r.Month</td>
+                            <td>@r.GrossSalary</td>
+                            <td>@r.NetPay</td>
+                            }
+                            <td>
+                              <a asp-action="Receipt" asp-controller="Salary" asp-route-id="@p.Employeeid"><button>
+                                print
+                              </button></a>
+                            </td>
+                         </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+
+</body>
+
+</html> 
+</main>
+
+

@@ -1,0 +1,211 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PayrollManagementSystem
+build_property.RootNamespace = PayrollManagementSystem
+build_property.ProjectDir = C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/Admin/AddEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkRW1wbG95ZWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/Admin/ComplaintList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ29tcGxhaW50TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/Admin/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/Admin/EmployeeList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRW1wbG95ZWVMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/Admin/LeaveRequest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTGVhdmVSZXF1ZXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/Admin/TraceList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVHJhY2VMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/Admin/UpdateEmployeeList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXBkYXRlRW1wbG95ZWVMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/Employee/ComplaintBox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQ29tcGxhaW50Qm94LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/Employee/EmployeeUserProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRW1wbG95ZWVVc2VyUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/Employee/LeaveReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcTGVhdmVSZXBvcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/Employee/Receipt.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcUmVjZWlwdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/Employee/RequestLeave.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcUmVxdWVzdExlYXZlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/Employee/UpdateProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcVXBkYXRlUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/Employee/ViewReportEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcVmlld1JlcG9ydEVtcGxveWVlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/Error/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/Home/contactus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjb250YWN0dXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/Home/customErrorPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjdXN0b21FcnJvclBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/Home/Payroll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYXlyb2xsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/Login/AdminDashBoard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQWRtaW5EYXNoQm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/Login/AdminLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQWRtaW5Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/Login/EmployeeDashBoard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cRW1wbG95ZWVEYXNoQm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/Login/EmployeeLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cRW1wbG95ZWVMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/Roles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/Roles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/Role/CreateRoleSalary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxDcmVhdGVSb2xlU2FsYXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/Role/RoleSalaryList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxSb2xlU2FsYXJ5TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/Salary/BonusList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXJ5XEJvbnVzTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/Salary/Receipt.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXJ5XFJlY2VpcHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/Salary/Repo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXJ5XFJlcG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/Salary/RoleBaseSalary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXJ5XFJvbGVCYXNlU2FsYXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/Salary/RoleBAseSalaryList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXJ5XFJvbGVCQXNlU2FsYXJ5TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/Salary/SalaryReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXJ5XFNhbGFyeVJlcG9ydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/Salary/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXJ5XFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karthi.baskar/Downloads/PayrollManagement Application/PayrollManagement Application/PayrollManagementSystem/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-v1p4tmqh0y

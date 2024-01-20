@@ -1,0 +1,154 @@
+@using Salary_Models
+@model Salary
+
+
+@{ ViewData["Title"]="Login";}
+
+ 
+<style>  
+
+
+    body{  
+  font-family: Calibri, Helvetica, sans-serif;  
+  background-color: rgb(109, 207, 236);  
+}  
+.container {  
+    padding: 50px;  
+  background-color: lightblue;  
+}  
+  
+input[type=text], input[type=password], textarea {  
+  width: 100%;  
+  padding: 15px;  
+  margin: 4px 0 22px 0;  
+  display: inline-block;  
+  border: none;  
+  background: #f1f1f1;  
+}  
+input[type=text]:focus, input[type=password]:focus {  
+  background-color: rgb(240, 246, 247);  
+  outline: none;  
+}  
+ div {  
+            padding: 8px 0;  
+         }  
+hr {  
+  border: 1px solid #f1f1f1;  
+  margin-bottom: 25px;  
+}  
+.registerbtn {  
+  background-color: #4CAF50;  
+  color: white;  
+  padding: 16px 20px;  
+  margin: 8px 0;  
+  border: none;  
+  cursor: pointer;  
+  width: 50%;  
+  opacity: 0.9;  
+}  
+.registerbtn:hover {  
+  opacity: 1;  
+}  
+body{  
+  font-family: Calibri, Helvetica, sans-serif;  
+  background-color: rgb(109, 207, 236);  
+}  
+.container {  
+    padding: 100px;  
+  background-color: lightblue;  
+}  
+  
+
+input[type=text]:focus, input[type=password]:focus {  
+  background-color: rgb(240, 246, 247);  
+  outline: none;  
+}  
+ div {  
+            padding: 8px 0;  
+         }  
+hr {  
+  border: 1px solid #b4acac;  
+  margin-bottom: 25px;  
+}  
+
+</style>   
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+</head>
+<body>
+    
+    <div >
+        <h1>Update RoleBaseSalary<a asp-action="RoleBAseSalaryList" asp-controller="Role" class="btn btn-sm btn-secondary" >Back</a></h1>
+        <form method="post">
+            <div class="row">
+                <div class="form-group col-md-5">
+                <label  asp-for="Salaryid" ></label>
+                <input type ="text" asp-for="Salaryid" class="form-control" />
+                 </div>
+                 <div class="form-group col-md-5">
+                <label  asp-for="Employeeid" ></label>
+                <input type ="text" asp-for="Employeeid" class="form-control" />
+                 </div>
+                <div class="form-group col-md-5">
+                    <label  asp-for="Rolename"></label>
+                    <select type="text" asp-for="Rolename" class="form-select form-control-md">
+                      <option asp-value="Intern">Intern</option>
+                      <option asp-value="Tester">Tester</option>
+                      <option asp-value="Developer">Developer</option>
+                      <option asp-value="HR">HR</option>
+                    </select>
+                  </div>
+                      <div class="form-group col-md-5">
+                        <label asp-for="Month"></label>
+                        <input type ="text" asp-for="Month" class="form-control" />
+                      </div>
+           
+                 @* <div class="form-group col-md-5">
+                <label  asp-for="BasicPay" ></label>
+                <input type ="text" asp-for="BasicPay" class="form-control" />
+                 </div> *@
+           
+                 
+                <div class="form-group col-md-5">
+                <label asp-for="TravellAllowance"></label>
+                <input type ="text" asp-for="TravellAllowance" class="form-control" />
+                </div>
+           
+           <div class="form-group col-md-5">
+                <label asp-for="MedicalAllowance"></label>
+                <input type ="text" asp-for="MedicalAllowance" class="form-control" />
+           </div>
+           @* <div class="form-group col-md-5">
+                <label asp-for="GrossSalary"></label>
+                <input type ="text" asp-for="GrossSalary" class="form-control" />
+                 </div>
+           <div class="form-group col-md-5">
+                <label asp-for="PF"></label>
+                <input type ="text" asp-for="PF" class="form-control" />
+           </div>
+           <div class="form-group col-md-5">
+                <label asp-for="ESI"></label>
+                <input type ="text" asp-for="ESI" class="form-control" />
+           </div>
+           <div class="form-group col-md-5">
+                <label asp-for="Tax"></label>
+                <input type ="text" asp-for="Tax" class="form-control" />
+           </div>
+           <div class="form-group col-md-5">
+                <label asp-for="NetPay"></label>
+                <input type ="text" asp-for="NetPay" class="form-control" />
+           </div></div> *@
+            </br>
+           
+            <div class=" panel-body col-md-5">
+                <button type="submit" class="btn btn-sm btn-primary">Update</button>
+            </div>
+        </form>
+
+
+</br>
+</body>

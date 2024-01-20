@@ -1,0 +1,31 @@
+<h3>An error occured. Please contact karthick@gmail.com if the same exception occured again!</h3>
+<hr />
+        <form id="logoutForm" class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+            <button id="logout" type="submit" class="nav-link btn-link border-0">Logout</button>
+        </form>
+    <div style="text-align:center"><a asp-action="AdminDashBoard" asp-controller="Login" >Go Back</a></div>
+<hr />
+<h2>Error Details:</h2>
+<div>
+    <h4>Error Path</h4>
+    <hr />
+    <p>@ViewBag.ErrorPath</p>
+</div>
+
+<div>
+    <h4>Error Message</h4>
+    <hr />
+    <p>@ViewBag.ErrorMessage</p>
+</div>
+
+<div>
+    <h4>Error Source</h4>
+    <hr />
+    <p>@ViewBag.ErrorSource</p>
+</div>
+
+<div>
+    <h4>Error Stack Trace</h4>
+    <hr />
+    <p>@ViewBag.ErrorStackTrace</p>
+</div>

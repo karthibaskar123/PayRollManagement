@@ -1,0 +1,1402 @@
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\appsettings.Development.json
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\appsettings.json
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\PayrollManagementSystem.staticwebassets.runtime.json
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\PayrollManagementSystem.exe
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\PayrollManagementSystem.deps.json
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\PayrollManagementSystem.runtimeconfig.json
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\PayrollManagementSystem.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\PayrollManagementSystem.pdb
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.csproj.AssemblyReference.cache
+D:\Project\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.AssemblyInfoInputs.cache
+D:\Project\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.AssemblyInfo.cs
+D:\Project\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.csproj.CoreCompileInputs.cache
+D:\Project\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.RazorAssemblyInfo.cache
+D:\Project\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.RazorAssemblyInfo.cs
+D:\Project\PayrollManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.PayrollManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Project\PayrollManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.build.PayrollManagementSystem.props
+D:\Project\PayrollManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PayrollManagementSystem.props
+D:\Project\PayrollManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PayrollManagementSystem.props
+D:\Project\PayrollManagementSystem\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Project\PayrollManagementSystem\obj\Debug\net7.0\staticwebassets.build.json
+D:\Project\PayrollManagementSystem\obj\Debug\net7.0\staticwebassets.development.json
+D:\Project\PayrollManagementSystem\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Project\PayrollManagementSystem\obj\Debug\net7.0\scopedcss\bundle\PayrollManagementSystem.styles.css
+D:\Project\PayrollManagementSystem\obj\Debug\net7.0\scopedcss\projectbundle\PayrollManagementSystem.bundle.scp.css
+D:\Project\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.csproj.CopyComplete
+D:\Project\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.dll
+D:\Project\PayrollManagementSystem\obj\Debug\net7.0\refint\PayrollManagementSystem.dll
+D:\Project\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.pdb
+D:\Project\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.genruntimeconfig.cache
+D:\Project\PayrollManagementSystem\obj\Debug\net7.0\ref\PayrollManagementSystem.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Humanizer.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\BitMiracle.LibTiff.NET.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Google.Protobuf.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Grpc.Core.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Grpc.Core.Api.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\IronPdf.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\IronSoftware.Drawing.Common.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\SixLabors.Fonts.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\SixLabors.ImageSharp.Drawing.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\SixLabors.ImageSharp.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\IronCefSubprocess.exe
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\IronInterop.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\IronPdf.Native.Chrome.deployment.json
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\chrome_100_percent.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\chrome_200_percent.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\chrome_elf.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\concrt140.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\d3dcompiler_47.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\dxva2.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\icudtl.dat
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\libEGL.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\libGLESv2.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\libcef.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\af.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\am.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\ar.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\bg.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\bn.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\ca.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\cs.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\da.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\de.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\el.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\en-GB.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\en-US.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\es-419.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\es.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\et.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\fa.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\fi.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\fil.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\fr.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\gu.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\he.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\hi.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\hr.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\hu.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\id.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\it.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\ja.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\kn.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\ko.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\lt.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\lv.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\ml.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\mr.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\ms.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\nb.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\nl.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\pl.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\pt-BR.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\pt-PT.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\ro.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\ru.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\sk.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\sl.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\sr.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\sv.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\sw.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\ta.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\te.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\th.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\tr.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\uk.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\ur.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\vi.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\zh-CN.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\zh-TW.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\msvcp140.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\msvcp140_1.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\msvcp140_2.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\resources.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\snapshot_blob.bin
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\ucrtbase.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\v8_context_snapshot.bin
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\vcruntime140.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\vcruntime140_1.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\vk_swiftshader.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\vulkan-1.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\IronCefSubprocess.exe
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\IronInterop.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\IronPdf.Native.Chrome.deployment.json
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\chrome_100_percent.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\chrome_200_percent.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\chrome_elf.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\concrt140.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\d3dcompiler_47.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\dxva2.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\icudtl.dat
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\libEGL.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\libGLESv2.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\libcef.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\af.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\am.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\ar.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\bg.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\bn.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\ca.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\cs.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\da.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\de.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\el.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\en-GB.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\en-US.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\es-419.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\es.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\et.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\fa.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\fi.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\fil.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\fr.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\gu.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\he.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\hi.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\hr.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\hu.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\id.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\it.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\ja.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\kn.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\ko.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\lt.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\lv.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\ml.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\mr.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\ms.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\nb.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\nl.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\pl.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\pt-BR.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\pt-PT.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\ro.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\ru.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\sk.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\sl.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\sr.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\sv.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\sw.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\ta.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\te.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\th.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\tr.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\uk.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\ur.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\vi.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\zh-CN.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\zh-TW.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\msvcp140.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\msvcp140_1.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\msvcp140_2.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\resources.pak
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\snapshot_blob.bin
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\ucrtbase.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\v8_context_snapshot.bin
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\vcruntime140.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\vk_swiftshader.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\vulkan-1.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Select.Html.dep
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Select.HtmlToPdf.dll
+D:\Project\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Azure.Core.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Azure.Identity.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.Build.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\NuGet.Common.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\System.CodeDom.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Select.Html.dep
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\appsettings.Development.json
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\appsettings.json
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\PayrollManagementSystem.staticwebassets.runtime.json
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\PayrollManagementSystem.exe
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\PayrollManagementSystem.deps.json
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\PayrollManagementSystem.runtimeconfig.json
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\PayrollManagementSystem.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\PayrollManagementSystem.pdb
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Azure.Core.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Azure.Identity.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\BitMiracle.LibTiff.NET.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Google.Protobuf.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Grpc.Core.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Grpc.Core.Api.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Humanizer.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\IronPdf.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\IronSoftware.Drawing.Common.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\SixLabors.Fonts.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\SixLabors.ImageSharp.Drawing.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\SixLabors.ImageSharp.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.Build.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\NuGet.Common.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\Select.HtmlToPdf.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\System.CodeDom.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\System.Memory.Data.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\IronCefSubprocess.exe
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\IronInterop.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\IronPdf.Native.Chrome.deployment.json
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\chrome_100_percent.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\chrome_200_percent.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\chrome_elf.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\concrt140.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\d3dcompiler_47.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\dxva2.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\icudtl.dat
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\libEGL.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\libGLESv2.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\libcef.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\af.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\am.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\ar.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\bg.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\bn.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\ca.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\cs.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\da.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\de.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\el.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\en-GB.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\en-US.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\es-419.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\es.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\et.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\fa.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\fi.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\fil.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\fr.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\gu.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\he.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\hi.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\hr.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\hu.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\id.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\it.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\ja.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\kn.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\ko.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\lt.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\lv.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\ml.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\mr.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\ms.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\nb.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\nl.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\pl.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\pt-BR.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\pt-PT.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\ro.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\ru.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\sk.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\sl.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\sr.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\sv.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\sw.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\ta.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\te.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\th.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\tr.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\uk.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\ur.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\vi.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\zh-CN.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\zh-TW.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\msvcp140.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\msvcp140_1.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\msvcp140_2.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\resources.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\snapshot_blob.bin
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\ucrtbase.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\v8_context_snapshot.bin
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\vcruntime140.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\vcruntime140_1.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\vk_swiftshader.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\vulkan-1.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\IronCefSubprocess.exe
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\IronInterop.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\IronPdf.Native.Chrome.deployment.json
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\chrome_100_percent.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\chrome_200_percent.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\chrome_elf.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\concrt140.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\d3dcompiler_47.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\dxva2.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\icudtl.dat
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\libEGL.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\libGLESv2.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\libcef.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\af.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\am.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\ar.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\bg.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\bn.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\ca.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\cs.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\da.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\de.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\el.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\en-GB.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\en-US.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\es-419.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\es.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\et.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\fa.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\fi.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\fil.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\fr.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\gu.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\he.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\hi.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\hr.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\hu.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\id.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\it.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\ja.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\kn.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\ko.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\lt.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\lv.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\ml.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\mr.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\ms.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\nb.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\nl.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\pl.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\pt-BR.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\pt-PT.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\ro.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\ru.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\sk.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\sl.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\sr.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\sv.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\sw.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\ta.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\te.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\th.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\tr.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\uk.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\ur.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\vi.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\zh-CN.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\zh-TW.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\msvcp140.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\msvcp140_1.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\msvcp140_2.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\resources.pak
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\snapshot_blob.bin
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\ucrtbase.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\v8_context_snapshot.bin
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\vcruntime140.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\vk_swiftshader.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\vulkan-1.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\MVC Project\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\MVC Project\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.csproj.AssemblyReference.cache
+D:\MVC Project\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC Project\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.AssemblyInfoInputs.cache
+D:\MVC Project\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.AssemblyInfo.cs
+D:\MVC Project\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.csproj.CoreCompileInputs.cache
+D:\MVC Project\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+D:\MVC Project\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\MVC Project\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.RazorAssemblyInfo.cache
+D:\MVC Project\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.RazorAssemblyInfo.cs
+D:\MVC Project\PayrollManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.PayrollManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MVC Project\PayrollManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.build.PayrollManagementSystem.props
+D:\MVC Project\PayrollManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PayrollManagementSystem.props
+D:\MVC Project\PayrollManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PayrollManagementSystem.props
+D:\MVC Project\PayrollManagementSystem\obj\Debug\net7.0\staticwebassets.pack.json
+D:\MVC Project\PayrollManagementSystem\obj\Debug\net7.0\staticwebassets.build.json
+D:\MVC Project\PayrollManagementSystem\obj\Debug\net7.0\staticwebassets.development.json
+D:\MVC Project\PayrollManagementSystem\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\MVC Project\PayrollManagementSystem\obj\Debug\net7.0\scopedcss\bundle\PayrollManagementSystem.styles.css
+D:\MVC Project\PayrollManagementSystem\obj\Debug\net7.0\scopedcss\projectbundle\PayrollManagementSystem.bundle.scp.css
+D:\MVC Project\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.csproj.CopyComplete
+D:\MVC Project\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.dll
+D:\MVC Project\PayrollManagementSystem\obj\Debug\net7.0\refint\PayrollManagementSystem.dll
+D:\MVC Project\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.pdb
+D:\MVC Project\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.genruntimeconfig.cache
+D:\MVC Project\PayrollManagementSystem\obj\Debug\net7.0\ref\PayrollManagementSystem.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Select.Html.dep
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\appsettings.json
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\PayrollManagementSystem.staticwebassets.runtime.json
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\PayrollManagementSystem.exe
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\PayrollManagementSystem.deps.json
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\PayrollManagementSystem.runtimeconfig.json
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\PayrollManagementSystem.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\PayrollManagementSystem.pdb
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\BitMiracle.LibTiff.NET.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Grpc.Core.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Grpc.Core.Api.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Humanizer.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\IronPdf.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\IronSoftware.Drawing.Common.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\SixLabors.Fonts.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\SixLabors.ImageSharp.Drawing.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\SixLabors.ImageSharp.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\Select.HtmlToPdf.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\IronCefSubprocess.exe
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\IronInterop.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\IronPdf.Native.Chrome.deployment.json
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\chrome_100_percent.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\chrome_200_percent.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\chrome_elf.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\concrt140.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\d3dcompiler_47.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\dxva2.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\icudtl.dat
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\libEGL.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\libGLESv2.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\libcef.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\af.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\am.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\ar.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\bg.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\bn.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\ca.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\cs.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\da.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\de.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\el.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\en-GB.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\en-US.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\es-419.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\es.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\et.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\fa.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\fi.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\fil.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\fr.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\gu.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\he.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\hi.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\hr.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\hu.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\id.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\it.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\ja.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\kn.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\ko.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\lt.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\lv.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\ml.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\mr.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\ms.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\nb.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\nl.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\pl.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\pt-BR.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\pt-PT.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\ro.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\ru.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\sk.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\sl.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\sr.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\sv.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\sw.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\ta.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\te.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\th.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\tr.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\uk.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\ur.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\vi.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\zh-CN.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\locales\zh-TW.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\resources.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\snapshot_blob.bin
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\ucrtbase.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\v8_context_snapshot.bin
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\vk_swiftshader.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\vulkan-1.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\IronCefSubprocess.exe
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\IronInterop.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\IronPdf.Native.Chrome.deployment.json
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\chrome_100_percent.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\chrome_200_percent.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\chrome_elf.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\concrt140.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\d3dcompiler_47.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\dxva2.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\icudtl.dat
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\libEGL.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\libGLESv2.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\libcef.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\af.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\am.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\ar.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\bg.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\bn.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\ca.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\cs.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\da.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\de.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\el.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\en-GB.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\en-US.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\es-419.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\es.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\et.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\fa.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\fi.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\fil.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\fr.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\gu.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\he.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\hi.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\hr.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\hu.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\id.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\it.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\ja.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\kn.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\ko.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\lt.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\lv.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\ml.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\mr.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\ms.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\nb.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\nl.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\pl.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\pt-BR.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\pt-PT.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\ro.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\ru.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\sk.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\sl.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\sr.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\sv.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\sw.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\ta.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\te.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\th.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\tr.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\uk.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\ur.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\vi.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\zh-CN.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\locales\zh-TW.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\resources.pak
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\snapshot_blob.bin
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\ucrtbase.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\v8_context_snapshot.bin
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\vk_swiftshader.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\vulkan-1.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.csproj.AssemblyReference.cache
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.AssemblyInfoInputs.cache
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.AssemblyInfo.cs
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.RazorAssemblyInfo.cache
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.RazorAssemblyInfo.cs
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.sourcelink.json
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.PayrollManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.build.PayrollManagementSystem.props
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PayrollManagementSystem.props
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PayrollManagementSystem.props
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\obj\Debug\net7.0\scopedcss\bundle\PayrollManagementSystem.styles.css
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\obj\Debug\net7.0\scopedcss\projectbundle\PayrollManagementSystem.bundle.scp.css
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.csproj.CopyComplete
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\obj\Debug\net7.0\refint\PayrollManagementSystem.dll
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.pdb
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.genruntimeconfig.cache
+C:\Users\karthi.baskar\Downloads\PayrollManagement Application\PayrollManagement Application\PayrollManagementSystem\obj\Debug\net7.0\ref\PayrollManagementSystem.dll
